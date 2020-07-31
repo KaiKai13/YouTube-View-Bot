@@ -66,4 +66,4 @@ STEP 4 (Running the Bot):
   Once that command is complete you'll want to type in 'python viewbot.py'
   followed by enter.
 
- 
+ [![Run on Repl.it](https://repl.it/badge/github/joe-habel/YouTube-View-Bot)](https://repl.it/github/joe-habel/YouTube-View-Bot)
